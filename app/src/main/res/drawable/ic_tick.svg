@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_tick</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_tick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#4A90E2" id="Path">
+            <path d="M22.6189981,0.380912281 C22.1707895,-0.0673411306 21.444115,-0.0673411306 20.9958168,0.380912281 L7.24495517,14.1319084 L1.95934893,8.84630214 C1.51114035,8.39804873 0.784465887,8.39809357 0.336167641,8.84630214 C-0.11208577,9.29451072 -0.11208577,10.0211852 0.336167641,10.4694386 L6.43336452,16.5665458 C6.8814386,17.0147544 7.60865107,17.0144405 8.05654581,16.5665458 L22.6189981,2.00409357 C23.0672515,1.55588499 23.0672066,0.829165692 22.6189981,0.380912281 Z"></path>
+        </g>
+    </g>
+</svg>
