@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Instagra Clone</string>
     <string name="splashimage">splashImage</string>
+    <string name="email_field_hint">Enter your email</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="login_button_text">Login</string>
 </resources>
